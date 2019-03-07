@@ -1,0 +1,165 @@
+obamacare
+low impact
+result by svm :0obamacare
+low impact
+result by svm :0obamacare
+low impact
+result by svm :0obamacare
+low impact
+result by svm :0manchester bomb
+low impact
+result by svm :0manchester bomb
+low impact
+manchester bomb
+low impact
+manchester bomb
+low impact
+result by svm :0result by svm :0manchester bomb
+low impact
+result by svm :0manchester bomb
+low impact
+manchester bomb
+low impact
+manchester bomb
+low impact
+result by svm :0manchester bomb
+low impact
+result by svm :0manchester bomb
+low impact
+result by svm :0manchester bomb
+low impact
+result by svm :0manchester bomb
+low impact
+result by svm :0manchester bomb
+low impact
+result by svm :0 financial regulations
+low impact
+result by svm :0 london attack fire
+low impact
+result by svm :0 salmonella hepatitis outbreak
+low impact
+result by svm :0 financial regulations
+low impact
+result by svm :0 trump financial regulations
+high impact
+result by svm :0 terror attacks
+low impact
+result by svm :1  civil war america
+low impact
+result by svm :0  civil war 
+low impact
+result by svm :0  civil war 
+low impact
+result by svm :0wonder women
+low impact
+result by svm :0black lives matter
+low impact
+black live matter
+low impact
+result by svm :0black live matter
+low impact
+result by svm :0hurricane irma
+low impact
+hurricane irma
+low impact
+hurricane irma
+low impact
+result by svm :0las vegas shoot
+low impact
+result by svm :0solar eclipse
+low impact
+result by svm :1hurricane irma
+low impact
+result by svm :0las vegas shoot
+low impact
+result by svm :0solar eclipse
+low impact
+result by svm :1hurricane harvey
+low impact
+result by svm :0bitcoin price
+low impact
+result by svm :0north korea
+low impact
+result by svm :1hurricane Jose
+low impact
+result by svm :0hurricane maria
+low impact
+result by svm :0april  giraffe
+high impact
+result by svm :1DACA
+low impact
+result by svm :0Matt Lauer
+low impact
+result by svm :0Tom Petty
+low impact
+result by svm :0Super Bowl
+low impact
+result by svm :0Mayweather  McGregor fight
+low impact
+result by svm :0Aaron Hernandez
+high impact
+result by svm :1Fidget Spinner
+high impact
+result by svm :1mueller investigation
+low impact
+result by svm :0me too
+low impact
+result by svm :0terrorism
+low impact
+result by svm :0opioid epidemic
+low impact
+result by svm :0london fire
+low impact
+result by svm :0russia investigation
+low impact
+result by svm :0nfl national anthem 
+low impact
+result by svm :0cultural war
+low impact
+result by svm :0president
+high impact
+result by svm :1charlottesville protests
+low impact
+result by svm :0free speech rally
+low impact
+result by svm :0women march
+low impact
+result by svm :0travel ban
+low impact
+result by svm :0fake news
+low impact
+result by svm :0nuggets carter
+low impact
+result by svm :0stranger things
+low impact
+result by svm :0Nikki Haley
+low impact
+result by svm :0sexual misconduct 
+low impact
+result by svm :0blue Monday
+low impact
+result by svm :0iifa award
+low impact
+result by svm :0cannes award
+low impact
+result by svm :0global warming
+low impact
+result by svm :0chili bowl
+low impact
+result by svm :0jimmy fallon
+low impact
+result by svm :0Virginia rally
+low impact
+result by svm :0alabama election
+low impact
+result by svm :0texas shoot
+low impact
+result by svm :0body slamed reporter
+low impact
+result by svm :0black live matter
+low impact
+result by svm :0black live matter
+low impact
+result by svm :0solar eclipse
+high impact
+result by svm :1
